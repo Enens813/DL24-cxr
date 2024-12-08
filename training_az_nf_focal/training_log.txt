@@ -1,0 +1,100 @@
+Epoch 1/20
+Train Loss: 0.2014, Train Accuracy: 0.5024
+Valid Loss: 0.3948, Valid Accuracy: 0.3471
+Validation F1 Score: 0.2936
+===============================
+Epoch 2/20
+Train Loss: 0.2019, Train Accuracy: 0.5013
+Valid Loss: 0.3934, Valid Accuracy: 0.3316
+Validation F1 Score: 0.2943
+===============================
+Epoch 3/20
+Train Loss: 0.2006, Train Accuracy: 0.5037
+Valid Loss: 0.3831, Valid Accuracy: 0.3048
+Validation F1 Score: 0.2968
+===============================
+Epoch 4/20
+Train Loss: 0.2022, Train Accuracy: 0.5036
+Valid Loss: 0.3926, Valid Accuracy: 0.3474
+Validation F1 Score: 0.2872
+===============================
+Epoch 5/20
+Train Loss: 0.2031, Train Accuracy: 0.5026
+Valid Loss: 0.3936, Valid Accuracy: 0.3409
+Validation F1 Score: 0.2974
+===============================
+Epoch 6/20
+Train Loss: 0.2008, Train Accuracy: 0.5025
+Valid Loss: 0.3931, Valid Accuracy: 0.3335
+Validation F1 Score: 0.3000
+===============================
+Epoch 7/20
+Train Loss: 0.2009, Train Accuracy: 0.5016
+Valid Loss: 0.3931, Valid Accuracy: 0.3395
+Validation F1 Score: 0.2935
+===============================
+Epoch 8/20
+Train Loss: 0.2007, Train Accuracy: 0.5037
+Valid Loss: 0.3955, Valid Accuracy: 0.3399
+Validation F1 Score: 0.2934
+===============================
+Epoch 9/20
+Train Loss: 0.2005, Train Accuracy: 0.5020
+Valid Loss: 0.3868, Valid Accuracy: 0.2903
+Validation F1 Score: 0.3024
+===============================
+Epoch 10/20
+Train Loss: 0.2009, Train Accuracy: 0.5037
+Valid Loss: 0.3929, Valid Accuracy: 0.3261
+Validation F1 Score: 0.3014
+===============================
+Epoch 11/20
+Train Loss: 0.2011, Train Accuracy: 0.5020
+Valid Loss: 0.3848, Valid Accuracy: 0.3080
+Validation F1 Score: 0.3019
+===============================
+Epoch 12/20
+Train Loss: 0.2007, Train Accuracy: 0.5023
+Valid Loss: 0.3952, Valid Accuracy: 0.3403
+Validation F1 Score: 0.2957
+===============================
+Epoch 13/20
+Train Loss: 0.2008, Train Accuracy: 0.5030
+Valid Loss: 0.3955, Valid Accuracy: 0.3304
+Validation F1 Score: 0.3004
+===============================
+Epoch 14/20
+Train Loss: 0.2009, Train Accuracy: 0.5012
+Valid Loss: 0.3914, Valid Accuracy: 0.3336
+Validation F1 Score: 0.2991
+===============================
+Epoch 15/20
+Train Loss: 0.2007, Train Accuracy: 0.5023
+Valid Loss: 0.3959, Valid Accuracy: 0.3392
+Validation F1 Score: 0.2906
+===============================
+Epoch 16/20
+Train Loss: 0.2010, Train Accuracy: 0.5026
+Valid Loss: 0.3898, Valid Accuracy: 0.3191
+Validation F1 Score: 0.3023
+===============================
+Epoch 17/20
+Train Loss: 0.2006, Train Accuracy: 0.4999
+Valid Loss: 0.3916, Valid Accuracy: 0.3181
+Validation F1 Score: 0.2963
+===============================
+Epoch 18/20
+Train Loss: 0.2015, Train Accuracy: 0.5024
+Valid Loss: 0.3954, Valid Accuracy: 0.3492
+Validation F1 Score: 0.2872
+===============================
+Epoch 19/20
+Train Loss: 0.2024, Train Accuracy: 0.5011
+Valid Loss: 0.3934, Valid Accuracy: 0.3366
+Validation F1 Score: 0.2965
+===============================
+Epoch 20/20
+Train Loss: 0.2045, Train Accuracy: 0.5008
+Valid Loss: 0.4130, Valid Accuracy: 0.3652
+Validation F1 Score: 0.2797
+===============================
